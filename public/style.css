@@ -25,6 +25,8 @@ input {
   display: block;
   position: relative;
   margin: 10px auto;
+  padding-block: 8px;
+  padding-inline: 16px;
 }
 
 input#button {
